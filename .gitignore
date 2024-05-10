@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg
+MANIFEST
+
+# Flask stuff
+instance/
+.webassets-cache
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# PyCharm project settings
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# macOS system files
+.DS_Store
+
+# dotenv environment variables file
+.env
+x
